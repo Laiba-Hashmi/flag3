@@ -1,0 +1,32 @@
+.flag{
+    width: 700px;
+    height: 400px;
+    border: solid black ;
+}
+.a{
+    height: 200px;
+    width: 700px;
+    background-color: #fcd116;
+}
+.b{
+    height: 200px;
+    width: 700px;
+    background-color:#009e49 ;
+}
+.vertical{
+    height: 400px;
+    width: 200px;
+    background-color: #ce1126;
+    position:absolute;
+    top: 8px;
+    margin: 3px;
+}
+span{
+    font-size: 150px;
+    columns: black;
+    padding-left: 40px;
+    position: absolute;
+}
+h1{
+    padding-left: 200px;
+}
